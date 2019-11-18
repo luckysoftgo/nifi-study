@@ -1,0 +1,6 @@
+com.application.base.processor.FirstProcessor
+com.application.base.processor.SecondProcessor
+com.application.base.processor.ThirdProcessor
+com.application.base.nifi.RedisInfoProcessor
+com.application.base.nifi.FourthProcessor
+
